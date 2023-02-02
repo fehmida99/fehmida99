@@ -10,15 +10,23 @@
 
 
 <img align="center" alt="Coding" width="900" height="420"  src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
-<br>
-- 🌱 I’m currently learning **JAVA, Spring Boot, Maven, Hibernate, MySQL**
+<br><br>
+
+
+- 🌱 I’m currently learning **JAVA,Spring Boot, Maven, Hibernate, MySQL**
+- 🔭 My first solo project [Digital Express](https://digital-express-99.netlify.app/)
+
+- 👯 My first collaborative project [Media Flow](https://mediaflow-website.netlify.app/)
+
+- 📝 I regularly solve problem on [Masai Coding Platform]
+
+- 💬 Ask me about **HTML,CSS,JavaScript,Java**
 
 - 📫 How to reach me **fehmida1899@gmail.com**
 
 - 📄 Know about my experiences(https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link)
 
 - ⚡ Fun fact **Expect The Unexpected!!!**
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fehmida99&label=Profile%20views&color=0e75b6&style=flat" alt="fehmida99" /> </p>
 
