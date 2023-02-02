@@ -1,6 +1,6 @@
 <!-- [![MasterHead]
 ( -->
-![MasterHead](https://user-images.githubusercontent.com/112754704/216363776-099d4fe3-90f7-4a4d-bf0e-f18c51af1834.png)
+![MasterHead](https://user-images.githubusercontent.com/112754704/216366164-49995ea1-fe74-4732-ba65-872f4f43e95c.png)
 <!-- )](https://fehmida99.github.io) -->
 
 <h1 align="center">Hi 👋, I'm Fehmida Shaikh</h1>
