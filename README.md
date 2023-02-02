@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="Coding" width="600" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 - 🌱 I’m currently learning **JAVA,Spring Boot,Maven,Hibernate,MySQL**
 
 - 📫 How to reach me **fehmida1899@gmail.com**
