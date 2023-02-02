@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Fehmida Shaikh</h1>
 <h3 align="center">Welcome to my GitHub Profile, I am a Passionate Java Backend Developer from India.</h3>
-<img align="center" alt="Coding" width="900" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fehmida99&label=Profile%20views&color=0e75b6&style=flat" alt="fehmida99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fehmida99" alt="fehmida99" /></a> </p>
 
+
+
+<img align="right" alt="Coding" width="600" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 - 🌱 I’m currently learning **JAVA,Spring Boot,Maven,Hibernate,MySQL**
 
 - 📫 How to reach me **fehmida1899@gmail.com**
@@ -17,6 +17,14 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link](https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link)
 
 - ⚡ Fun fact **Expect The Unexpected!!!**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fehmida99&label=Profile%20views&color=0e75b6&style=flat" alt="fehmida99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fehmida99" alt="fehmida99" /></a> </p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
