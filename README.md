@@ -1,7 +1,7 @@
 <!-- [![MasterHead]
 ( -->
-![Teal Geometric Technology Linkdln Banner](https://user-images.githubusercontent.com/112754704/216363776-099d4fe3-90f7-4a4d-bf0e-f18c51af1834.png)
-)](https://fehmida99.github.io)
+![MasterHead](https://user-images.githubusercontent.com/112754704/216363776-099d4fe3-90f7-4a4d-bf0e-f18c51af1834.png)
+<!-- )](https://fehmida99.github.io) -->
 
 <h1 align="center">Hi 👋, I'm Fehmida Shaikh</h1>
 <h3 align="center">Welcome to my GitHub Profile, I am a Passionate Java Backend Developer from India.</h3>
