@@ -1,15 +1,16 @@
 
-
 [![MasterHead](https://user-images.githubusercontent.com/112754704/216366164-49995ea1-fe74-4732-ba65-872f4f43e95c.png)](https://fehmida99.github.io)
 
 
-
 <h1 align="center">Hi 👋, I'm Fehmida Shaikh</h1>
-<h3 align="center">Welcome to my GitHub Profile, I am a Passionate Java Backend Developer from India.</h3>
+<h3 align="center">Welcome to my GitHub Profile,<br> I am a Passionate Java Backend Developer from India.</h3>
+<br><br>
 
 
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
+
+<img align="center" alt="Coding" width="900" height="420"  src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
+<br>
 - 🌱 I’m currently learning **JAVA, Spring Boot, Maven, Hibernate, MySQL**
 
 - 📫 How to reach me **fehmida1899@gmail.com**
