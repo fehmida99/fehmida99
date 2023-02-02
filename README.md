@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Fehmida Shaikh</h1>
 <h3 align="center">Welcome to my GitHub Profile, I am a Passionate Java Backend Developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
+<img align="center" alt="Coding" width="600" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 
 
 
