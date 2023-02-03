@@ -9,7 +9,7 @@
 
 
 
-<img align="center" alt="Coding" width="900" height="410"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="center" alt="Coding" width="900" height="420"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <br><br>
 
 
