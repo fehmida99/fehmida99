@@ -12,7 +12,10 @@
 <img align="center" alt="Coding" width="900" height="500"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <br><br>
 
-<h3>About Me :</h3>
+
+
+# 💫 About Me:
+
 - 🌱 I’m currently learning **JAVA,Spring Boot, Maven, Hibernate, MySQL**
 - 🔭 My first solo project [Digital Express](https://digital-express-99.netlify.app/)
 
