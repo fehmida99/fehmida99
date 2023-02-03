@@ -1,15 +1,15 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/112754704/216366164-49995ea1-fe74-4732-ba65-872f4f43e95c.png)](https://fehmida99.github.io)
 
-
-<h1 align="center">Hi 👋, I'm Fehmida Shaikh</h1>
-<h3 align="center">Welcome to my GitHub Profile,<br> I am a Passionate Java Backend Developer from India.</h3>
+<!-- <i class="fa-solid fa-star"></i> -->
+<h1 align="center">Codes Can't Lie Comments Can!!! </h1>
+<h1 align="center"> <b>I am a Passionate Java Backend Developer from India.</b></h1>
 <br><br>
 
 
 
 
-<img align="center" alt="Coding" width="900" height="420"  src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
+<img align="center" alt="Coding" width="900" height="400"  src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 <br><br>
 
 
