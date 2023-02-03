@@ -2,8 +2,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/112754704/216366164-49995ea1-fe74-4732-ba65-872f4f43e95c.png)](https://fehmida99.github.io)
 
 <!-- <i class="fa-solid fa-star"></i> -->
+
+
+
+
 <h1 align="center">Codes Can't Lie Comments Can!!! </h1>
-<h1 align="center"> <b>I am a Passionate Java Backend Developer from India.</b></h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Java+Backend+Developer+from+India">
+
+<!-- <h1 align="center"> <b>I am a Passionate Java Backend Developer from India.</b></h1> -->
 <br><br>
 
 
