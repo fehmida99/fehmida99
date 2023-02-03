@@ -5,10 +5,10 @@
 
 
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Codes+Can+not+Lie+Comments+Can!!!">
+<!-- <h1 align="center">Codes Can't Lie Comments Can!!! </h1> -->
 
-<h1 align="center">Codes Can't Lie Comments Can!!! </h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Java+Backend+Developer+from+India">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEA00&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Java+Backend+Developer+from+India">
 
 <!-- <h1 align="center"> <b>I am a Passionate Java Backend Developer from India.</b></h1> -->
 <br><br>
