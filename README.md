@@ -34,7 +34,7 @@
 
 - 📫 How to reach me [fehmida1899@gmail.com](mailto://fehmida1899@gmail.com)
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link)**
 
 - ⚡ Fun fact **Expect The Unexpected!!!**
 
