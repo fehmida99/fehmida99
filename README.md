@@ -34,13 +34,16 @@
 
 - 📫 How to reach me [fehmida1899@gmail.com](mailto://fehmida1899@gmail.com)
 
-- 📄 Know about my experiences(https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link)
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)**
 
 - ⚡ Fun fact **Expect The Unexpected!!!**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fehmida99&label=Profile%20views&color=0e75b6&style=flat" alt="fehmida99" /> </p>
 
 
+<!-- **[My Resume](https://drive.google.com/file/d/1nsnlYP3nJ9X8FGQaom0rBlRMCfC4tB03/view?usp=sharing)** -->
+
+<!-- https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fehmida99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
