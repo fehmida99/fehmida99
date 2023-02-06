@@ -36,6 +36,8 @@
 
 - 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link)**
 
+- 👨🏻‍🎓 Visit my **[Portfolio](https://fehmida99.github.io/)**
+
 - ⚡ Fun fact **Expect The Unexpected!!!**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fehmida99&label=Profile%20views&color=0e75b6&style=flat" alt="fehmida99" /> </p>
