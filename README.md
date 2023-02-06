@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java**
 
-- 📫 How to reach me **fehmida1899@gmail.com**
+- 📫 How to reach me [fehmida1899@gmail.com](mailto://fehmida1899@gmail.com)
 
 - 📄 Know about my experiences(https://drive.google.com/file/d/1uzEObLvaEdJvbP_Nc-WQ-cr8UYXHFcS9/view?usp=share_link)
 
