@@ -38,7 +38,7 @@
 
 - 📫 How to reach me [fehmida1899@gmail.com](mailto://fehmida1899@gmail.com)
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1ollINNNykAmi6RV0xPSVPKNQQUPOy-ND/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1e2vsebtk6e-jVKIWOqmmLW73yEcf-GZZ/view?usp=share_link)**
 
 - 👨🏻‍🎓 Visit my **[Portfolio](https://fehmida99.github.io/)**
 
