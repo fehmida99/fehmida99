@@ -32,7 +32,7 @@
 
 - 👯 My first collaborative project [Media Flow](https://mediaflow-website.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 💬 Ask me about ** Java, Spring Boot, Spring Framework, Hibernate, Maven, MySQL, Python, HTML, CSS, JavaScript,**
 
 - 📫 How to reach me [fehmida1899@gmail.com](mailto://fehmida1899@gmail.com)
 
